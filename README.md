@@ -25,7 +25,7 @@ I’m a full-stack developer with **4+ years of experience**, primarily focused 
 ## 📈 Currently  
 - Working on exciting full-stack projects  
 - Open to collaboration on open-source or freelance opportunities  
-- Building my personal tech brand on [LinkedIn](https://www.linkedin.com/ideas2logic) & [YouTube](https://www.youtube.com/@ideas2logic)
+- Building my personal tech brand on [LinkedIn](https://www.linkedin.com/company/ideas2logic) & [YouTube](https://www.youtube.com/@ideas2logic)
 
 ---
 
