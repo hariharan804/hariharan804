@@ -8,10 +8,9 @@ I’m a full-stack developer with **4+ years of experience**, primarily focused 
 ## 🛠️ Tech Stack I Work With  
 - **Frontend**: React.js, Next.js, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS  
 - **Backend**: Node.js, Express/Fastify, REST APIs  
-- **Database**: MySQL, PostgreSQL, Knex.js, Objection.js  
+- **Database/ORMs**: MySQL, PostgreSQL, Knex.js, Objection.js  
 - **Tools & Workflow**: Git, GitHub, Postman, VS Code, Figma, SonarCloud, Jira  
-- **Cloud & DevOps**: Firebase, AWS (basic), CI/CD (basic)
-
+- **Cloud & DevOps**: Firebase, AWS, CI/CD
 ---
 
 ## 💼 What I Do  
