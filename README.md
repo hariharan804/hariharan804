@@ -23,7 +23,6 @@ A custom, production-ready **React + Tailwind component library** designed for:
 - Optimized for performance and accessibility  
 
 ✨ Explore: **https://ideasui.com**  
-_(More updates & documentation coming soon!)_
 
 ---
 
