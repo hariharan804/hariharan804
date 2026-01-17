@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Hariharan
-🚀 **Full Stack Developer** | 🎯 Focused on Frontend Excellence | 🧠 Passionate about building real-world tech  
+# 👋 Hi, I'm Hariharan  
+🚀 **Full Stack Developer** | 🎯 Frontend Specialist | 🧠 Building real-world tech  
 
-I’m a full-stack developer with **4+ years of experience**, primarily focused on frontend technologies like **React, Next.js, and React Native**, and solid backend exposure with **Node.js and SQL**. I enjoy crafting scalable, performant apps that solve real-world problems with clean, maintainable code.
+I’m a full-stack developer focused on **frontend excellence** with React, Next.js, and React Native — while also crafting solid backend foundations with Node.js and SQL. I love building scalable, performant applications with clean, maintainable architecture.
 
 ---
 
@@ -10,25 +10,43 @@ I’m a full-stack developer with **4+ years of experience**, primarily focused 
 - **Backend**: Node.js, Express/Fastify, REST APIs  
 - **Database/ORMs**: MySQL, PostgreSQL, Knex.js, Objection.js  
 - **Tools & Workflow**: Git, GitHub, Postman, VS Code, Figma, SonarCloud, Jira  
-- **Cloud & DevOps**: Firebase, AWS, CI/CD
+- **Cloud & DevOps**: Firebase, AWS, CI/CD  
+
+---
+
+## 🧩 Building: IdeasUI – Component Library  
+A custom, production-ready **React + Tailwind component library** designed for:  
+- Reusable UI patterns  
+- Faster development cycles  
+- Consistent design system across apps  
+- Highly customizable components  
+- Optimized for performance and accessibility  
+
+✨ Explore: **https://ideasui.com**  
+_(More updates & documentation coming soon!)_
+
 ---
 
 ## 💼 What I Do  
-- Build and maintain modern mobile & web apps  
-- Collaborate closely with designers, backend teams, and product owners  
-- Focus on performance optimization, scalability, and user experience  
-- Contribute to internal tools, reusable components, and code quality
+- Build modern mobile & web applications  
+- Collaborate with designers, backend teams & product owners  
+- Focus on **performance**, **scalability**, and **UX**  
+- Build internal tools, reusable systems, and ensure code quality  
+- Actively improve workflows and development processes  
 
 ---
 
 ## 📈 Currently  
-- Working on exciting full-stack projects  
-- Open to collaboration on open-source or freelance opportunities  
-- Building my personal tech brand on [LinkedIn](https://www.linkedin.com/company/ideas2logic) & [YouTube](https://www.youtube.com/@ideas2logic)
+- Working on exciting full-stack and component-driven projects  
+- Building **IdeasUI** and my personal tech brand  
+- Open for collaboration, open-source contributions, and freelance projects  
 
 ---
 
 ## 📫 Let's Connect  
-Feel free to explore my repositories, contribute, or reach out!   
-🌐 [LinkedIn](https://linkedin.com/in/hariharan804)
-🌐 [Instagran](https://instagram.com/hariharan804)
+Explore, collaborate, or reach out anytime!  
+
+🌐 [LinkedIn](https://linkedin.com/in/hariharan804)  
+🌐 [Instagram](https://instagram.com/hariharan804)  
+🌐 [YouTube](https://www.youtube.com/@ideas2logic)  
+🌐 [Ideas2Logic](https://www.linkedin.com/company/ideas2logic)
