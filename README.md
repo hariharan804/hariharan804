@@ -1,51 +1,119 @@
-# 👋 Hi, I'm Hariharan  
-🚀 **Full Stack Developer** | 🎯 Frontend Specialist | 🧠 Building real-world tech  
+# 👋 Hi, I'm Hariharan P
 
-I’m a full-stack developer focused on **frontend excellence** with React, Next.js, and React Native — while also crafting solid backend foundations with Node.js and SQL. I love building scalable, performant applications with clean, maintainable architecture.
+### 🚀 Full-Stack Developer • Frontend Specialist • Building Products That Scale
 
----
+I'm a full-stack developer from India who specializes in building modern, scalable, and high-performance applications. My focus is creating exceptional user experiences while designing reliable and maintainable backend systems.
 
-## 🛠️ Tech Stack I Work With  
-- **Frontend**: React.js, Next.js, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS  
-- **Backend**: Node.js, Express/Fastify, REST APIs  
-- **Database/ORMs**: MySQL, PostgreSQL, Knex.js, Objection.js  
-- **Tools & Workflow**: Git, GitHub, Postman, VS Code, Figma, SonarCloud, Jira  
-- **Cloud & DevOps**: Firebase, AWS, CI/CD  
+I enjoy transforming ideas into production-ready products and building tools that help developers work more efficiently.
 
 ---
 
-## 🧩 Building: IdeasUI – Component Library  
-A custom, production-ready **React + Tailwind component library** designed for:  
-- Reusable UI patterns  
-- Faster development cycles  
-- Consistent design system across apps  
-- Highly customizable components  
-- Optimized for performance and accessibility  
+## 🛠️ Tech Stack
 
-✨ Explore: **https://ideasui.com**  
+### Frontend
+
+* React.js
+* Next.js
+* React Native
+* TypeScript
+* JavaScript (ES6+)
+* Tailwind CSS
+* Redux
+* Zustand
+* React Query
+* SWR
+
+### Backend
+
+* Node.js
+* Express.js
+* Fastify
+* NestJS
+* REST APIs
+* GraphQL
+
+### Databases & ORMs
+
+* PostgreSQL
+* MySQL
+* SQLite
+* Prisma
+* Knex.js
+* Objection.js
+
+### Tools & Workflow
+
+* Git
+* GitHub
+* GitHub Actions
+* Postman
+* Swagger
+* VS Code
+* Figma
+* SonarCloud
+* Jira
+* ESLint
+* Prettier
+
+### Cloud, DevOps & Infrastructure
+
+* AWS
+* Firebase
+* Docker
+* Nginx
+* CI/CD
+* Linux
+* VPS Management
+* SSH
+* PM2
 
 ---
 
-## 💼 What I Do  
-- Build modern mobile & web applications  
-- Collaborate with designers, backend teams & product owners  
-- Focus on **performance**, **scalability**, and **UX**  
-- Build internal tools, reusable systems, and ensure code quality  
-- Actively improve workflows and development processes  
+## 🧩 Building: IdeasUI
+
+**IdeasUI** is a modern component library built with React, TypeScript, and Tailwind CSS.
+
+### Features
+
+* Reusable and accessible components
+* Flexible design system
+* High-performance architecture
+* Extensive customization capabilities
+* Dark mode support
+* Developer-friendly APIs
+
+🔗 https://ideasui.com
 
 ---
 
-## 📈 Currently  
-- Working on exciting full-stack and component-driven projects  
-- Building **IdeasUI** and my personal tech brand  
-- Open for collaboration, open-source contributions, and freelance projects  
+## 💼 What I Do
+
+* Build modern web and mobile applications
+* Develop reusable component libraries
+* Design scalable backend services and APIs
+* Optimize performance and user experience
+* Improve development workflows and code quality
+* Collaborate closely with designers and product teams
 
 ---
 
-## 📫 Let's Connect  
-Explore, collaborate, or reach out anytime!  
+## 📈 Current Focus
 
-🌐 [LinkedIn](https://linkedin.com/in/hariharan804)  
-🌐 [Instagram](https://instagram.com/hariharan804)  
-🌐 [YouTube](https://www.youtube.com/@ideas2logic)  
-🌐 [Ideas2Logic](https://www.linkedin.com/company/ideas2logic)
+* Building and expanding **IdeasUI**
+* Creating developer-focused products
+* Exploring scalable application architectures
+* Contributing to open-source projects
+* Growing the **Ideas2Logic** brand
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/hariharan804
+* Instagram: https://instagram.com/hariharan804
+* YouTube: https://www.youtube.com/@ideas2logic
+* Ideas2Logic: https://www.linkedin.com/company/ideas2logic
+
+---
+
+⭐ Turning ideas into reliable, scalable, and elegant software solutions.
